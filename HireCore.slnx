@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HireCore.TestConsole/HireCore.TestConsole.csproj" />
+  <Project Path="HireCore/HireCore.csproj" />
+</Solution>
